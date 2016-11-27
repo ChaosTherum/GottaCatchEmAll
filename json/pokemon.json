@@ -252,7 +252,7 @@
       "is_default": 1
    },
    "29": {
-      "identifier": "nidoran-f",
+      "identifier": "nidoran",
       "species_id": 29,
       "height": 4,
       "weight": 70,
@@ -279,7 +279,7 @@
       "is_default": 1
    },
    "32": {
-      "identifier": "nidoran-m",
+      "identifier": "nidoran",
       "species_id": 32,
       "height": 5,
       "weight": 90,
