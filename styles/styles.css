@@ -2,6 +2,7 @@ body {
 }
 
 header {
+    position: fixed;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -40,6 +41,7 @@ header h1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    padding-top: 120px;
 }
 
 #boxes table td, #boxes table th { 
