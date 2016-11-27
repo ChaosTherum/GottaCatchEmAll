@@ -66,5 +66,6 @@ function update() {
 $(document).ready(function () {populate();
                                   });
 
-
-setInterval(update, FRAME_TIME);
+$(document).click( function() {
+  update();
+});
