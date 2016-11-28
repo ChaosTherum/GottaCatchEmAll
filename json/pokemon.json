@@ -379,6 +379,10 @@
 		"order": "19",
 		"conquest_order": ""
 	},
+  {
+		"id": "19",
+		"identifier": "alola rattata"
+	},
 	{
 		"id": "20",
 		"identifier": "raticate",

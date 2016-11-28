@@ -1,11 +1,11 @@
-var caught = 0, progress = 0, pokemon, i;
+var caught = 0, progress = 0, pokemon, i, totalPokemon = 722;
 FRAME_TIME = 1000 / 15;
 $.getJSON("json/pokemon.json", "json", function (json) {
     pokemon = json;
-}
-         );
+    totalPokemon = json.length;
+});
 //var client = new $.RestClient("localhost:8000/api/v2/");
-$('#progress').progressbar({max: 721}, 'enable');
+$('#progress').progressbar({max: totalPokemon}, 'enable');
 $('.ui-progressbar-value').append('<div />');
 function populate() {
     var i, j, k, poke = 1, currentPokemon, boxNumber, m;
@@ -40,6 +40,7 @@ function populate() {
             }
         }
     }
+    //Create pokemon checkboxes as well as labels
     for (key in pokemon) {
         $('<input />', {
             type: 'checkbox',
@@ -56,14 +57,15 @@ function populate() {
 
 function update() {
     progress = $('input:checked').length;
-    percent = (progress / 721) * 100;
+    percent = (progress / totalPokemon) * 100;
     $('#progress').progressbar('value', progress);
     $('.ui-progressbar-value > div').text(percent.toPrecision(3) + '% Complete');
-    $('#needed').text(721 - progress + ' Pokemon needed to complete dex');
+    $('#needed').text(totalPokemon - progress + ' Pokemon needed to complete dex');
 }
 
-$(document).ready(function () {populate();
-                                  });
+$(document).ready(function () {
+  populate();
+});
 
 $(document).click( function() {
   update();
