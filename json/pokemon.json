@@ -873,7 +873,115 @@
 	},
 	{
 		"id": "201",
-		"identifier": "unown"
+		"identifier": "unown a"
+	},
+	{
+		"id": "201",
+		"identifier": "unown b"
+	},
+	{
+		"id": "201",
+		"identifier": "unown c"
+	},
+	{
+		"id": "201",
+		"identifier": "unown d"
+	},
+	{
+		"id": "201",
+		"identifier": "unown e"
+	},
+	{
+		"id": "201",
+		"identifier": "unown f"
+	},
+	{
+		"id": "201",
+		"identifier": "unown g"
+	},
+	{
+		"id": "201",
+		"identifier": "unown h"
+	},
+	{
+		"id": "201",
+		"identifier": "unown i"
+	},
+	{
+		"id": "201",
+		"identifier": "unown j"
+	},
+	{
+		"id": "201",
+		"identifier": "unown k"
+	},
+	{
+		"id": "201",
+		"identifier": "unown l"
+	},
+	{
+		"id": "201",
+		"identifier": "unown m"
+	},
+	{
+		"id": "201",
+		"identifier": "unown n"
+	},
+	{
+		"id": "201",
+		"identifier": "unown o"
+	},
+	{
+		"id": "201",
+		"identifier": "unown p"
+	},
+	{
+		"id": "201",
+		"identifier": "unown q"
+	},
+	{
+		"id": "201",
+		"identifier": "unown r"
+	},
+	{
+		"id": "201",
+		"identifier": "unown s"
+	},
+	{
+		"id": "201",
+		"identifier": "unown t"
+	},
+	{
+		"id": "201",
+		"identifier": "unown u"
+	},
+	{
+		"id": "201",
+		"identifier": "unown v"
+	},
+	{
+		"id": "201",
+		"identifier": "unown w"
+	},
+	{
+		"id": "201",
+		"identifier": "unown x"
+	},
+	{
+		"id": "201",
+		"identifier": "unown y"
+	},
+	{
+		"id": "201",
+		"identifier": "unown z"
+	},
+	{
+		"id": "201",
+		"identifier": "unown ?"
+	},
+	{
+		"id": "201",
+		"identifier": "unown !"
 	},
 	{
 		"id": "202",
@@ -1613,7 +1721,19 @@
 	},
 	{
 		"id": "386",
-		"identifier": "deoxys"
+		"identifier": "deoxys normal"
+	},
+	{
+		"id": "386",
+		"identifier": "deoxys attack"
+	},
+	{
+		"id": "386",
+		"identifier": "deoxys defense"
+	},
+	{
+		"id": "386",
+		"identifier": "deoxys speed"
 	},
 	{
 		"id": "387",
@@ -1717,11 +1837,27 @@
 	},
 	{
 		"id": "412",
-		"identifier": "burmy"
+		"identifier": "burmy plant"
+	},
+	{
+		"id": "412",
+		"identifier": "burmy sandy"
+	},
+	{
+		"id": "412",
+		"identifier": "burmy trash"
 	},
 	{
 		"id": "413",
-		"identifier": "wormadam"
+		"identifier": "wormadam plant"
+	},
+	{
+		"id": "413",
+		"identifier": "wormadam sandy"
+	},
+	{
+		"id": "413",
+		"identifier": "wormadam trash"
 	},
 	{
 		"id": "414",
@@ -1757,11 +1893,19 @@
 	},
 	{
 		"id": "422",
-		"identifier": "shellos"
+		"identifier": "shellos pink"
+	},
+	{
+		"id": "422",
+		"identifier": "shellos blue"
 	},
 	{
 		"id": "423",
-		"identifier": "gastrodon"
+		"identifier": "gastrodon pink"
+	},
+	{
+		"id": "423",
+		"identifier": "gastrodon blue"
 	},
 	{
 		"id": "424",
@@ -1985,7 +2129,27 @@
 	},
 	{
 		"id": "479",
-		"identifier": "rotom"
+		"identifier": "rotom normal"
+	},
+	{
+		"id": "479",
+		"identifier": "rotom heat"
+	},
+	{
+		"id": "479",
+		"identifier": "rotom wash"
+	},
+	{
+		"id": "479",
+		"identifier": "rotom frost"
+	},
+	{
+		"id": "479",
+		"identifier": "rotom fan"
+	},
+	{
+		"id": "479",
+		"identifier": "rotom mow"
 	},
 	{
 		"id": "480",
@@ -2017,7 +2181,11 @@
 	},
 	{
 		"id": "487",
-		"identifier": "giratina"
+		"identifier": "giratina altered"
+	},
+	{
+		"id": "487",
+		"identifier": "giratina origin"
 	},
 	{
 		"id": "488",
@@ -2269,7 +2437,11 @@
 	},
 	{
 		"id": "550",
-		"identifier": "basculin"
+		"identifier": "basculin red"
+	},
+	{
+		"id": "550",
+		"identifier": "basculin blue"
 	},
 	{
 		"id": "551",
@@ -2409,11 +2581,35 @@
 	},
 	{
 		"id": "585",
-		"identifier": "deerling"
+		"identifier": "deerling spring"
+	},
+	{
+		"id": "585",
+		"identifier": "deerling summer"
+	},
+	{
+		"id": "585",
+		"identifier": "deerling autumn"
+	},
+	{
+		"id": "585",
+		"identifier": "deerling winter"
 	},
 	{
 		"id": "586",
-		"identifier": "sawsbuck"
+		"identifier": "sawsbuck spring"
+	},
+	{
+		"id": "586",
+		"identifier": "sawsbuck summer"
+	},
+	{
+		"id": "586",
+		"identifier": "sawsbuck autumn"
+	},
+	{
+		"id": "586",
+		"identifier": "sawsbuck winter"
 	},
 	{
 		"id": "587",
@@ -2657,7 +2853,11 @@
 	},
 	{
 		"id": "647",
-		"identifier": "keldeo"
+		"identifier": "keldeo normal"
+	},
+	{
+		"id": "647",
+		"identifier": "keldeo resolute"
 	},
 	{
 		"id": "648",
