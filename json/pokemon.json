@@ -84,6 +84,10 @@
 		"identifier": "raticate"
 	},
 	{
+		"id": "20",
+		"identifier": "alola raticate"
+	},
+	{
 		"id": "21",
 		"identifier": "spearow"
 	},
@@ -108,12 +112,24 @@
 		"identifier": "raichu"
 	},
 	{
+		"id": "26",
+		"identifier": "alola raichu"
+	},
+	{
 		"id": "27",
 		"identifier": "sandshrew"
 	},
 	{
+		"id": "20",
+		"identifier": "alola sandshrew"
+	},
+	{
 		"id": "28",
 		"identifier": "sandslash"
+	},
+	{
+		"id": "20",
+		"identifier": "alola sandslash"
 	},
 	{
 		"id": "29",
@@ -152,8 +168,16 @@
 		"identifier": "vulpix"
 	},
 	{
+		"id": "20",
+		"identifier": "alola vulpix"
+	},
+	{
 		"id": "38",
 		"identifier": "ninetales"
+	},
+	{
+		"id": "20",
+		"identifier": "alola ninetales"
 	},
 	{
 		"id": "39",
@@ -204,16 +228,32 @@
 		"identifier": "diglett"
 	},
 	{
+		"id": "20",
+		"identifier": "alola diglett"
+	},
+	{
 		"id": "51",
 		"identifier": "dugtrio"
+	},
+	{
+		"id": "20",
+		"identifier": "alola dugtrio"
 	},
 	{
 		"id": "52",
 		"identifier": "meowth"
 	},
 	{
+		"id": "20",
+		"identifier": "alola meowth"
+	},
+	{
 		"id": "53",
 		"identifier": "persian"
+	},
+	{
+		"id": "20",
+		"identifier": "alola persian"
 	},
 	{
 		"id": "54",
@@ -300,12 +340,24 @@
 		"identifier": "geodude"
 	},
 	{
+		"id": "20",
+		"identifier": "alola geodude"
+	},
+	{
 		"id": "75",
 		"identifier": "graveler"
 	},
 	{
+		"id": "20",
+		"identifier": "alola graveler"
+	},
+	{
 		"id": "76",
 		"identifier": "golem"
+	},
+	{
+		"id": "20",
+		"identifier": "alola golem"
 	},
 	{
 		"id": "77",
@@ -356,8 +408,16 @@
 		"identifier": "grimer"
 	},
 	{
+		"id": "20",
+		"identifier": "alola grimer"
+	},
+	{
 		"id": "89",
 		"identifier": "muk"
+	},
+	{
+		"id": "20",
+		"identifier": "alola muk"
 	},
 	{
 		"id": "90",
@@ -416,12 +476,20 @@
 		"identifier": "exeggutor"
 	},
 	{
+		"id": "20",
+		"identifier": "alola exeggutor"
+	},
+	{
 		"id": "104",
 		"identifier": "cubone"
 	},
 	{
 		"id": "105",
 		"identifier": "marowak"
+	},
+	{
+		"id": "20",
+		"identifier": "alola marowak"
 	},
 	{
 		"id": "106",
