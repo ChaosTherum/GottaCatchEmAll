@@ -4,8 +4,7 @@ $.getJSON("json/pokemon.json", "json", function (json) {
     pokemon = json;
 }
          );
-//var client = new $.RestClient("pokeapi.co/api/v2/");
-
+//var client = new $.RestClient("localhost:8000/api/v2/");
 $('#progress').progressbar({max: 721}, 'enable');
 $('.ui-progressbar-value').append('<div />');
 function populate() {
